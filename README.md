@@ -4,7 +4,7 @@ Praticar o desenvolvimento de relatórios gerencias utilizando o Power BI
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Semana 2 - Marketing**
+| :sparkles: Nome        | **Challenge BI - Marketing**
 | :label: Tecnologias | Power BI
 | :rocket: URL         | https://bit.ly/dashboarddemarketing
 | :fire: Desafio     | https://www.alura.com.br/challenges/bi
